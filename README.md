@@ -1,6 +1,6 @@
 # Yii2-rbac [![Total Downloads](https://img.shields.io/packagist/dt/dektrium/yii2-rbac.svg?style=flat-square)](https://packagist.org/packages/dektrium/yii2-rbac) [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
-Yii2-rbac provides a way to manage your application's RBAC structure and includes following features:
+Yii2-rbac (fork from dektrium/yii2-rbac) provides a way to manage your application's RBAC structure and includes following features:
 
 - Allows CRUD operations for auth items (roles and permissions) and rules.
 - Allows to assign multiple roles or permissions to user (using bundled widget).
